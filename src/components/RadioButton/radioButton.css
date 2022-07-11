@@ -1,0 +1,27 @@
+.rd14ctn {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.rd14lb {
+	color: rgba(240, 240, 240, 0.782);
+	font-size: 1rem;
+	margin-left: 6px;
+}
+
+.rd14ip:checked {
+	background-color: rgb(44, 109, 238);
+}
+
+.rd14ip {
+	width: auto;
+	appearance: none;
+	background-color: transparent;
+	margin: 0;
+	font: inherit;
+	width: 0.88rem;
+	height: 0.88rem;
+	border: 0.15em solid rgba(255, 255, 255, 0.804);
+	border-radius: 50%;
+}

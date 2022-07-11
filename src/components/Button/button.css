@@ -1,0 +1,19 @@
+.bt13btn {
+	background: transparent;
+	border: 1px solid rgba(226, 225, 225, 0.85);
+	padding: 1rem 2rem;
+	color: rgba(241, 241, 241, 0.894);
+	font-size: 1rem;
+	border-radius: 2em;
+	text-transform: uppercase;
+	font-weight: 500;
+	letter-spacing: 0.5px;
+	transition: 0.3s;
+	cursor: pointer;
+}
+
+.bt13btn:hover {
+	border: 1px solid rgba(226, 225, 225, 0.975);
+	color: rgba(241, 241, 241, 0.991);
+	background-color: #205acead;
+}

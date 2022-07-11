@@ -1,0 +1,19 @@
+.rc15subCtn {
+	display: flex;
+	width: 25rem;
+}
+
+.rc15rowCtn {
+	display: flex;
+	flex: 1;
+	justify-content: space-evenly;
+	width: 100%;
+}
+
+.rc15p {
+	font-size: 1.1rem;
+	font-weight: 400;
+	color: rgba(245, 245, 245, 0.835);
+	letter-spacing: 0.4px;
+	margin: 0;
+}

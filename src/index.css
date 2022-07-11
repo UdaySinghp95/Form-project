@@ -1,0 +1,15 @@
+body {
+	margin: 0;
+	font-family: "open sans";
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+	font-size: 62.5%;
+	background: url("/public/back.svg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+code {
+	font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+		monospace;
+}

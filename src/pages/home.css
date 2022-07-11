@@ -1,0 +1,32 @@
+.hm11ctn {
+	display: flex;
+	flex-direction: column;
+	width: 30rem;
+	margin: auto;
+	border: 1px solid rgba(227, 227, 227, 0.209);
+	backdrop-filter: blur(5px);
+	border-radius: 5px;
+	align-items: center;
+	padding: 2rem;
+	row-gap: 3rem;
+	overflow: hidden;
+}
+
+.hm11hd {
+	font-size: 2.2rem;
+	color: rgb(244, 244, 244);
+	letter-spacing: 0.1px;
+	text-transform: capitalize;
+	margin-bottom: 2rem;
+}
+
+.hm11rowCtn {
+	display: flex;
+	flex: 1;
+	justify-content: space-evenly;
+	width: 100%;
+}
+
+.error {
+	border-color: #de4949d0 !important;
+}
